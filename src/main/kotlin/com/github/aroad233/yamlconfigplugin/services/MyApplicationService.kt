@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.aroad233.yamlconfigplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.aroad233.yamlconfigplugin.MyBundle
 
 class MyApplicationService {
 
